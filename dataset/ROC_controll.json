@@ -1,0 +1,1002 @@
+[
+    {
+        "id": 1,
+        "prompt": "Kim hosted a slumber party with her friends, where they ate pizza, watched movies, and stayed up all night talking and gossiping.",
+        "story": "Kim invited all her friends over for a slumber party. The girls ate pizza and watched movies all night. They stayed up talking and gossiping. The girls didn't go to sleep all night. The girls were very tired when their parents picked them up."
+    },
+    {
+        "id": 2,
+        "prompt": "Robert caught toads with a net after failing to capture them with his hands.",
+        "story": "Robert found a toad. He tried to capture the toad with his hands. The toads evaded capture. Robert bought a net. He caught a lot of toads with the net."
+    },
+    {
+        "id": 3,
+        "prompt": "Lou pranks his sister at the beach by creating a smiley face design with suntan lotion on her back.",
+        "story": "Lou thought it would be funny to play a prank on his sister. They were at the beach. She asked him to put suntan lotion on her back. He made a smiley face design with the lotion. She ended up with a smiley face tan lines."
+    },
+    {
+        "id": 4,
+        "prompt": "Tutoring session with aunt's son was unproductive as he gave brief responses and didn't communicate much.",
+        "story": "My aunt decided to bring her son over. Before tutoring him, I asked what lesson plan he's on. He gave me a brief response. In addition, he didn't say much when I was helping him out. We ended up finishing nothing for the day."
+    },
+    {
+        "id": 5,
+        "prompt": "Man grows beard to annoy family, but they always make him shave it off despite keeping it trimmed.",
+        "story": "I grew a beard just to make my family mad at me. They want me to shave my beard, but I don't know why. I kept it trimmed and not bushy. However for whatever reason they always get on to me. Eventually, I always end up shaving it completely off."
+    },
+    {
+        "id": 6,
+        "prompt": "Andrew buys new paintings online for his new house.",
+        "story": "Andrew just moved into a new house. He wanted some new art for his new house. So Andrew went on his laptop. He looked online for paintings. He found some nice paintings and bought them."
+    },
+    {
+        "id": 7,
+        "prompt": "Harry Henry goes fishing, finds too many people at his favorite spot, catches 15 catfish at a new spot.",
+        "story": "Harry Henry decided to take the day of work and go fishing. He arrived at his favorite spot, only to find too many people there. He went to a new spot and was worried he would catch nothing. But each time he threw in his line he immediately caught a fish. After catching fifteen catfish, he decided to go home and clean them."
+    },
+    {
+        "id": 8,
+        "prompt": "A successful writer, Mike, quit writing but soon realized it left a hole in his heart and returned to apologize to his fans.",
+        "story": "Mike was a successful writer, but had gotten sick of writing. He spoke to the press about quitting writing and then went home. Mike went home and decided to try to do something else. He soon realized that not writing left a hole in his heart. Mike decided to go back to writing, and said sorry to his fans."
+    },
+    {
+        "id": 9,
+        "prompt": "Lucy braids her grandma's hair for hours after initially being refused.",
+        "story": "Lucy was bored. She asked her grandma if she could braid her hair. At first grandma refused. Finally she let Lucy braid her hair. Lucy occupied herself for hours braiding her grandma's hair."
+    },
+    {
+        "id": 10,
+        "prompt": "Rachel was wrongly accused of leaking confidential information at her office, but was later found not guilty.",
+        "story": "Rachel worked at an office for three years. There was a leak of confidential information. Somehow Rachel was framed and blamed for the leak. Rachel was suspended from her job. After an investigation Rachel was found not guilty of the leak."
+    },
+    {
+        "id": 11,
+        "prompt": "John listened to music while walking to work and was offered a ride by two people, which he attributed to the power of music.",
+        "story": "John was walking to work as usual. However he was listening to headphones. He never listened to music on his walks before. Two different people stopped to offer him a ride. He had never been offered a ride before, he thanked the music."
+    },
+    {
+        "id": 12,
+        "prompt": "Sam fulfills his dream of visiting America but faces questioning at the border before being allowed to continue.",
+        "story": "Sam always wanted to visit America. He got his papers in order and drove through the border. Once there he was stopped and asked several questions. Sam was noticeably nervous. Eventually everything was sorted and he was allowed to continue."
+    },
+    {
+        "id": 13,
+        "prompt": "Fred opens a gallery to showcase his paintings and is pleasantly surprised when everything sells out on the first night.",
+        "story": "Fred loved painting and had been doing it for years. He wanted to showcase his talents by opening a gallery. He wasn't sure if anyone would be interested at first. But the first night it all sold out. Fred couldn't have been happier."
+    },
+    {
+        "id": 14,
+        "prompt": "Bouncer forcibly removes two women from club after checking for wigs.",
+        "story": "Two ladies were in front of the club. The bouncer started at them carefully. He asked them if they're wearing any wigs. When they said no, he grabbed their hair and pulled them off. The bouncer eventually kicked them out."
+    },
+    {
+        "id": 15,
+        "prompt": "Megan cooked tacos for Taco Tuesday and invited Blake over. They ate, drank beer, and watched TV.",
+        "story": "Megan decided to make dinner. She cooked tacos for Taco Tuesday. She invited Blake. He brought beer. They ate and watched tv."
+    },
+    {
+        "id": 16,
+        "prompt": "Despite practicing all week, the author missed many shots during a tennis match and lost, leading them to conclude they need more practice.",
+        "story": "I had a tennis match tonight. I had practiced all week. I still missed a lot of shots. I decided I needed more practice. I lost my match."
+    },
+    {
+        "id": 17,
+        "prompt": "Tom lost his lighters frequently and when he was left with only one, he spent hours searching for it but eventually gave up and bought a new pack.",
+        "story": "Tom always lost his lighters. One day he was down to his last one. Tom decided not to give up and find it. He spent hours looking everywhere. Eventually he gave up and bought a new pack."
+    },
+    {
+        "id": 18,
+        "prompt": "Colby ruined his favorite jeans while cleaning the bathroom with bleach.",
+        "story": "Colby was cleaning his house. He was wearing his favorite pair of jeans. Colby decided to clean the bathroom. He got bleach on his jeans. Colby ruined his favorite jeans."
+    },
+    {
+        "id": 19,
+        "prompt": "Basketball player John visits 8 universities and chooses Duke after being offered athletic scholarships.",
+        "story": "John was a great basketball player. John was offered an athletic scholarship to 8 universities. He went to visit each university to decide where to go. John held a ceremony to announce his decision. John decided to go to Duke to play basketball."
+    },
+    {
+        "id": 20,
+        "prompt": "A man creates his own flag and raises it in his yard, playing taps at sunset and lowering it honorably, observed by a boy who salutes.",
+        "story": "A man wanted to make his own personal flag to fly in his yard. He went to the fabric store and bought many types of cloth. He sewed it together that afternoon and raised it soon afterwards. At sunset he played taps and honorably lowered it. A boy watching from the street saluted this act."
+    },
+    {
+        "id": 21,
+        "prompt": "Anthony knew how to pick up girls in college and had better luck than his friend by smiling often.",
+        "story": "As a freshman in college, Anthony was most interested in girls. Unlike his classmates, he knew how to pick up girls. He went out with his friend that showed girls his money. But Anthony had better luck with women because he smiled often. Anthony's friend asked what was the secret, Anthony said I got game."
+    },
+    {
+        "id": 22,
+        "prompt": "A woman who always loved bulldogs never had one, but got bulldog books when she got married. After having a baby, she stopped talking about bulldogs.",
+        "story": "My daughter has always loved bulldogs. She never had a dog. When she got married she got bulldog books. Then she had a baby girl. She does not talk about bulldogs much anymore."
+    },
+    {
+        "id": 23,
+        "prompt": "A person disliked Secret Santa as they never knew what to buy for a stranger. They once bought an Usher album for a boy named Gabriel who didn't speak English.",
+        "story": "I always hated secret santa. I never knew what was cool to by a complete stranger. In fourth grade I got a boy named Gabriel, who I had never spoken to. I bought him an Usher album. Turned out he didn't even speak English."
+    },
+    {
+        "id": 24,
+        "prompt": "Mike bought a chainsaw from Cal, but only wanted the chaps, helmet, and sawhorse, as he already had a great chainsaw.",
+        "story": "Cal had a chainsaw for sale with chaps, helmet and a sawhorse. Mike told Cal he wanted everything but the chainsaw. Cal didn't understand the point of that. Mike said he already had a great chainsaw. Cal sold off everything but the chainsaw to Mike."
+    },
+    {
+        "id": 25,
+        "prompt": "A cat threw up on a comforter, but the owner, who is disabled, was able to clean it to his wife's relief.",
+        "story": "Our cat threw up on our comforter on Monday. She was ok after throwing up. My wife had to work and I am disabled. I was however able to slowly take the comforter to the laundry room. I cleaned the comforter, much to my wife's relief."
+    },
+    {
+        "id": 26,
+        "prompt": "Colin's dad took him to the batting cages every day to improve his hitting ability, and it paid off when Colin got three hits in his next baseball game.",
+        "story": "Colin signed up for little-league baseball. Colin struggled to hit the baseball whenever he was up to bat. Colin's dad was concerned about Colin's hitting ability. He took Colin to the batting cages for practice every day. In his next baseball game, Colin got three hits."
+    },
+    {
+        "id": 27,
+        "prompt": "Justin enjoyed making and eating stove-made pudding every night.",
+        "story": "Justin loved to make pudding. He liked the kind that was made on the stove. He liked to heat the milk and mix the pudding into it. When it had cooled, he would eat the whole pan. Justin made the delicious treat every night."
+    },
+    {
+        "id": 28,
+        "prompt": "Barry cuts off his cornrows but is disappointed with the change.",
+        "story": "Barry wanted to switch up his hairstyle. Barry was tired of wearing his hair in cornrows. Barry decided it was time to cut his cornrows off. Barry was scared of the change, but decided to embrace it. Barry was disappointed that he cut his hair off."
+    },
+    {
+        "id": 29,
+        "prompt": "Tom was accused of driving under the influence after a party, but was able to get off without a problem with the help of an expensive lawyer.",
+        "story": "Tom was driving after a party. He was pulled over. He was accused of driving under the influence. Tom got an expensive lawyer to defend him. He was able to get off without a problem."
+    },
+    {
+        "id": 30,
+        "prompt": "A thirteen-year-old buys a guitar, learns to play it after a few months of practice, and writes their first song.",
+        "story": "I bought my first guitar when I was thirteen. I couldn't play it, but wanted to learn. I spent every day practicing what I could. I started to learn the guitar well after a few months. After six months, I wrote my first song."
+    },
+    {
+        "id": 31,
+        "prompt": "Frank, not the best player on his Little League team, hit his first home run during the last game of the season.",
+        "story": "Frank wasn't the best player on his Little League team. He tried hard, but the darn ball was so small! During the last game of the season he was up at bat. He swung at the ball and hit the sweet spot. He had gotten his first home run ever."
+    },
+    {
+        "id": 32,
+        "prompt": "A 99-year-old man named Ben is becoming less independent, walking slower, forgetting things, and his daughter is now visiting daily, indicating he may need to go to a care home soon.",
+        "story": "My 99 year old friend Ben is getting less dependent. He is walking more slowly. He is forgetting things. His daughter used to visit every so often but is now here daily. I think Ben might have to go to a home soon."
+    },
+    {
+        "id": 33,
+        "prompt": "Rick thought he lost his phone at the movie theater, but it was actually in his back pocket when he got home.",
+        "story": "Rick lost his phone at the movie theater. He asked the movie workers if they'd seen it. Nobody saw his phone. He decided it must have gotten stolen. When he got home he found it in his back pocket."
+    },
+    {
+        "id": 34,
+        "prompt": "A toddler caused a mess with paper clips at their parent's workplace, but fortunately the director was absent.",
+        "story": "Our daughter took her two-year old to her work today. The toddler behaved for an hour. Then she started playing with paper clips. Soon there were clips all over the floor. Luckily the director was off today."
+    },
+    {
+        "id": 35,
+        "prompt": "Trisha met Keanu Reeves at a party in LA, but he mistook her for his mother due to being high on drugs.",
+        "story": "Trisha went to a party in LA. When there she saw Keanu Reeves. She went to speak to him. Keanu thought she was his mother. Keanu was high on drugs."
+    },
+    {
+        "id": 36,
+        "prompt": "Kate ate a big dinner too quickly after not eating all day, leading to her vomiting.",
+        "story": "Kate hadn't eaten all day. She decided to get a big dinner. She ate really fast. It was too much before she knew it. Eventually Kate wound up throwing up."
+    },
+    {
+        "id": 37,
+        "prompt": "Nathalie's crush Sebastian got married, leaving her heartbroken. She got drunk alone and took over a year to move on.",
+        "story": "Nathalie had a crush on Sebastian. When he got married, it was the saddest day of her life. She saw him walked the aisle and marry the woman he loved. And when she went home, she got drunk all alone. It took her over a year to get over it and date someone else again."
+    },
+    {
+        "id": 38,
+        "prompt": "Roan sets up a compost heap in his backyard to avoid wasting fruit and vegetable peels, which nourishes his garden.",
+        "story": "Roan and his family ate a lot of fruits and veggies. Roan didn't want to waste the peels, so he found a solution. He set up a compost heap in his backyard for the peels and shells. The compost decomposed and nourished the plants in Roan's garden. Roan was glad he had come up with such a 'green' idea!"
+    },
+    {
+        "id": 39,
+        "prompt": "Sheena cracked her tooth while playing basketball, but her dentist was able to make it look brand new.",
+        "story": "Sheena was playing basketball with her friends. She tried to make a basket, but she tripped and fell. Her tooth his the pavement, cracking in the process. She was really worried that it couldn't be fixed. Luckily, her dentist made her tooth look brand new."
+    },
+    {
+        "id": 40,
+        "prompt": "Brad escapes stress by going fishing with his friend and catches three fish, having a great time.",
+        "story": "Brad needed to get away. The stress of life and job were getting to him. He decided to call his buddy up. They decided to go fishing out by the lake. Brad caught three fish and had a great time."
+    },
+    {
+        "id": 41,
+        "prompt": "Frog eggs found in swimming pool are relocated to a nearby pond to hatch into tadpoles.",
+        "story": "We open our swimming pool every year in April. We always find a few sacs of frog's eggs floating around in the water. I use my pool net to fish them out and place them in a bucket. I put the bucket in my car and drive it to a nearby pond. When the eggs hatch the tadpoles will be in their new pond home."
+    },
+    {
+        "id": 42,
+        "prompt": "Tim started selling his homemade juice at a local market and it became successful enough for him to pursue it full time.",
+        "story": "Tim liked to make juice out of fresh fruit. He decided that his juice was good enough to sell. Tim opened up a juice stand at the local market. The stand did very well. Tim was able to stop working and pursue his business full time."
+    },
+    {
+        "id": 43,
+        "prompt": "Michel gets a haircut at a salon to look like Tom Cruise and his mom approves of the new look.",
+        "story": "Michel went to the hair salon. He wanted his hair to look like Tom Cruise. The barber cut his hair for two hours. Michel went home to his parents house. His mom thought he looked like Tom Cruise."
+    },
+    {
+        "id": 44,
+        "prompt": "Sharon's friends gave her leftover pizza, which made her happy as she loves to eat cold pizza.",
+        "story": "Sharon loves to eat cold pizza. Last night her friends ordered a large pizza. They couldn't eat it all, so they gave the leftovers to her. Sharon was really happy about this. Now she had a lot of cold pizza she could eat!"
+    },
+    {
+        "id": 45,
+        "prompt": "Tom discovered a great punk band at a local show, remembered their name, and held onto their early music as they became successful.",
+        "story": "Tom went to a local punk show. He wasn't aware of the band until he got there. The band was surprisingly good. Tom made sure to remember their name. The band eventually made it big and Tom held on to their early stuff."
+    },
+    {
+        "id": 46,
+        "prompt": "Jimmy used crowdfunding to fund his social networking website idea and successfully raised enough money to start the project.",
+        "story": "Jimmy had a great idea for a social networking website. Jimmy didn't have enough money to get his idea off the ground. He decided to use crowdfunding to try and fund his project. He set up a page and asked for donations. He got enough money to start his website."
+    },
+    {
+        "id": 47,
+        "prompt": "Mike and I played Connect Four, flipping a coin to decide who went first. Mike went first and chose 3, but I won in the end.",
+        "story": "Mike wanted to play connect four with me! We set the game up and had to figure out who goes first. We had a coin flip to decide! He went first and selected 3. When the game was close to ending I won!"
+    },
+    {
+        "id": 48,
+        "prompt": "A boy's ball gets stuck on the roof, but his dad is unable to retrieve it with a ladder, so he buys his son a new ball.",
+        "story": "The ball got stuck on the roof. The boy told his dad. His dad got the ladder. The ladder was too short. The dad got his son a new ball at the store."
+    },
+    {
+        "id": 49,
+        "prompt": "Mark found the money he needed to buy a video game in his old piggy bank.",
+        "story": "Mark wanted to buy a video game that comes out next week. Mark realized he was thirty dollars short. Suddenly, he remembered that he owned an old piggy bank. After a while of searching, he finally found it! Lucky Mark, there was exactly thirty dollars in his piggy bank."
+    },
+    {
+        "id": 50,
+        "prompt": "Betty befriended a surfer at the beach and learned to surf with their help, and now they surf together.",
+        "story": "Betty went to the beach and made friends with a surfer. They started meeting up at the beach after that. The surfer asked her if she wanted to learn how to surf too. Betty said yes and began to try and learn. Eventually she learned and they both surf together now."
+    },
+    {
+        "id": 51,
+        "prompt": "Henry and his girlfriend walked to the end of a boardwalk near the shore and were almost attacked by a large fish.",
+        "story": "There was a small boardwalk near the shore. Henry decided to walk to the end with his girlfriend. They stood for a few minutes to look at the fish. A large fish came out of nowhere. It landed in front of the dock and almost attacked Henry."
+    },
+    {
+        "id": 52,
+        "prompt": "A boy named Ryan got stuck on the monkey bars, and his brother called the police, but Ryan broke free before they arrived.",
+        "story": "Ryan got stuck between the monkey bars on the playground. His older brother did not know what to do. His older brother called the police. By the time the police came, Ryan broke free. The police officers laughed about the whole situation."
+    },
+    {
+        "id": 53,
+        "prompt": "Greg was convicted of manslaughter despite pleading not guilty due to an overworked and drug-addicted court-appointed lawyer.",
+        "story": "Greg was arrested for manslaughter. He pled not guilty. He couldn't afford a lawyer, so the court gave him one. Unfortunately, the lawyer was overworked and high on cocaine. So Greg was convicted."
+    },
+    {
+        "id": 54,
+        "prompt": "Tim was nervous about bringing his loud children to his office party, but they behaved well and everyone loved them.",
+        "story": "Tim had recently started at a new job. His office was hosting a party and wanted him to bring in his family. Tim was worried that his loud children would leave a bad impression. Luckily the kids were extremely well behaved during the party. It all worked out and everyone loved Tim's family."
+    },
+    {
+        "id": 55,
+        "prompt": "Sarah's friends ate her poorly seasoned spaghetti and meat sauce to spare her feelings.",
+        "story": "Sarah cooked dinner for her friends. She made spaghetti and meat sauce. She thought she included all the ingredients. Sarah forgot to season the sauce and it was disgusting. Her friends ate it any way so they would not hurt Sarah's feelings."
+    },
+    {
+        "id": 56,
+        "prompt": "Tom sends a picture of a rainbow to his girlfriend who loves them, making her smile and appreciate the gesture.",
+        "story": "Tom loved nature. His girlfriend loved rainbows. Tom was driving home one day and saw a rainbow. He took a picture of it and sent it to his girlfriend. She smiled and appreciated the picture."
+    },
+    {
+        "id": 57,
+        "prompt": "Friends trespass in cemetery at night, hear groaning, and flee in fear.",
+        "story": "Some friends and I climbed over a cemetery gate late at night. We walked around with a flashlight for a couple minutes. Suddenly the light went out. We heard what sounded like groaning from a few meters away. We jumped the gate, running as fast as our feet could carry us."
+    },
+    {
+        "id": 58,
+        "prompt": "Barbara travels to a farm to see daisies in the wild and finally gets to see one in person.",
+        "story": "Barbara loved daisies a lot. She loved the aroma they gave off. One day, she decided to see some in the wild. She traveled all the way to the farm. Finally, Barbara was able to see a daisy in real life."
+    },
+    {
+        "id": 59,
+        "prompt": "Jay lost his source of income when his computer crashed, leading him to panhandle on the streets.",
+        "story": "Jay had been turking for the last 6 months. He was making roughly 60 dollars a day. One day, his computer crashed, and he could no longer turk. Jay laid in bed dejected, and wondered how he would make money. Jay started panhandling on the streets like a bum."
+    },
+    {
+        "id": 60,
+        "prompt": "Rain was expected at night but arrived the next morning, bringing cooler weather. Excitement ensued as fun activities were planned.",
+        "story": "The night was supposed to be rainy. The rain actually didn't move in until the next morning. It brought cooler weather with it. Everyone was so excited to have cooler temperatures. They scheduled some fun activities for the cooler days ahead."
+    },
+    {
+        "id": 61,
+        "prompt": "Spencer accidentally kicked a kickball and hit a kid in the head, feeling guilty afterwards.",
+        "story": "Spencer saw a kickball head his way. He didn't know if he should kick it. He decided to kick it. It hit a kid in the head. Spencer felt really bad."
+    },
+    {
+        "id": 62,
+        "prompt": "Tim dislikes cats but falls for a girl who owns one. The cat's charm changes his mind about felines.",
+        "story": "Tim hates cats. But he finds out that his new girlfriend has a cat. Normally he would not date someone with a cat but he really likes her. The cat wins him over. He realizes that not all cats are jerks."
+    },
+    {
+        "id": 63,
+        "prompt": "Amanda finds a way to pay for horseback riding lessons by working at the barn.",
+        "story": "Amanda really wanted to take horseback riding lessons. However, her mom could not afford it, since it was expensive. Amanda decided she needed to find a way to pay for it. She asked her future instructor what she could do. The instructor told her to work at the barn and she could get lessons."
+    },
+    {
+        "id": 64,
+        "prompt": "Rory takes his hesitant dog Alfo to the beach, but Alfo ends up having a great time paddling in the lake.",
+        "story": "Rory was going to the beach. He took his dog Alfo along. At first Alfo seemed hesitant. But then he paddled right into the lake! Alfo ended up having a great time!"
+    },
+    {
+        "id": 65,
+        "prompt": "A teacher named Emma had to use a projector instead of her chalkboard when she couldn't find her chalk or erasers.",
+        "story": "Emma was a teacher. She wrote on her chalkboard every day. One day, she couldn't find her chalk or erasers. She had to use the projector instead. Emma couldn't wait to be able to use her chalkboard again!"
+    },
+    {
+        "id": 66,
+        "prompt": "The blue team won the game with a last-minute shot from behind the arch, after both teams scored 100 points.",
+        "story": "The rival teams played each other. Both scored 100 points. There was only a minute left in the game. The blue team shot from behind the arch. It went in and they won the game!"
+    },
+    {
+        "id": 67,
+        "prompt": "Jane's date at a new restaurant ended early after the waitress spilled their cocktails on her.",
+        "story": "Jane went on a date. They went to a hot new restaurant. They each ordered a cocktail. The waitress dropped the drinks on Jane. Jane went home early."
+    },
+    {
+        "id": 68,
+        "prompt": "Bill reviews his life and realizes he needs to consistently stick to a plan. He starts planning his work and working his plan, leading to success.",
+        "story": "Bill was not having much success in life. He decided to review his life's actions objectively. He realized he did not consistently stick to a plan. His new life mantra became planning his work and working his plan. During the following year he actualized his hopes, plans, and dreams."
+    },
+    {
+        "id": 69,
+        "prompt": "David went to the wrong location for a job interview and no one showed up.",
+        "story": "David applied for a new job. He was invited for an interview at a large company. David drove across town to the interview. He waited at the office but no one came. David realized he had traveled to the wrong location."
+    },
+    {
+        "id": 70,
+        "prompt": "Mary's love for Madrid led her to sell everything she owned and move there, eventually finding an apartment within a month.",
+        "story": "Madrid was Mary's favorite city. The art, the architecture, the culture it was all her favorite. She wanted to move there so badly but couldn't afford it. One day though she sold everything she owned and started her trek. Within a month she had an apartment, in Madrid."
+    },
+    {
+        "id": 71,
+        "prompt": "Melanie's boyfriend broke up with her over text, leaving her devastated and crying for hours.",
+        "story": "Melanie picked up her phone. She had a horrible text from her boyfriend. He broke up with her! She texted back but he wouldn't respond. Melanie cried for hours."
+    },
+    {
+        "id": 72,
+        "prompt": "Whitney missed her dad's birthday by a day and couldn't change the delivery she had planned for him.",
+        "story": "Whitney thought her dad's birthday was on February 10. She had planned a delivery for him. Apparently it was on February 9. She could not change the delivery. Whitney felt bad for missing his birthday."
+    },
+    {
+        "id": 73,
+        "prompt": "Sarah's friends recommended a massage therapist for her shoulder pain, which she found online and was able to relieve her pain.",
+        "story": "Sarah had a pain in her shoulder. She asked her friends what to do. They told her to visit a massage therapist. She looked on the Internet and found one that was highly rated. The therapist massaged her pain away and Sarah was happy."
+    },
+    {
+        "id": 74,
+        "prompt": "Desi was inspired by a talented orchestra at a concert and asked her family to let her learn the violin.",
+        "story": "Desi's family attended a concert at a symphony hall. The orchestra there was phenomenally talented. Desi was most struck by the bold, sharp sounds of the strings. Desi asked her family afterwards if she could learn the violin. They acquiesced and she began lessons shortly after."
+    },
+    {
+        "id": 75,
+        "prompt": "Band stops playing after audience loses synchronization and asks them to stop clapping.",
+        "story": "The audience clapped their hands. At first the tempo was good. Some people became out of synchronization. The band stopped playing. The asked the audience to not clap."
+    },
+    {
+        "id": 76,
+        "prompt": "Bob and Mike went on a fishing trip to the lake, but rain prevented them from fishing until the next day.",
+        "story": "Bob and Mike wanted to go to the lake for a fishing trip. They packed up and brought the camper so they could stay the night. Once there it began to rainy so heavily that fishing was impossible! Hoping for better weather in the morning, they went to sleep early. With clear skies at sunrise, they were free to fish all day!"
+    },
+    {
+        "id": 77,
+        "prompt": "Hanna missed seeing whales on a whale-watching trip because she played games on her phone instead of watching patiently.",
+        "story": "Hanna's parents took her on a whale-watching expedition. Unfortunately, there didn't seem to be any whales out. Hanna's parents exhorted her to keep patiently watching. Hanna decided to play games on her phone instead. Her parents were sad when Hanna missed the glorious whale sighting!"
+    },
+    {
+        "id": 78,
+        "prompt": "Kate's day didn't improve after a lukewarm shower, and she planned to wake up earlier the next day.",
+        "story": "Kate figured her day would get better after a hot shower. She turned the shower on and waited. The water never reached any temperature above luke-warm. Braving the cool water, Kate quickly showered. Tomorrow, she would need to get up before the rest of her family."
+    },
+    {
+        "id": 79,
+        "prompt": "Ivy's prom dress was too long, so she had it hemmed by a tailor and it fit perfectly.",
+        "story": "Ivy had the perfect prom dress. But when she tried it on, she found it was too long! She took it to a tailor. There, she had the dress hemmed a few inches. When she tried it on again, the dress fit Ivy perfectly!"
+    },
+    {
+        "id": 80,
+        "prompt": "Eric found a stubborn green stain on his kitchen countertop and had to use a commercial cleaner to remove it.",
+        "story": "Eric was cleaning his kitchen. He found a green colored stain on his countertop. He tried to scrub it off with soap and water. The stain was not budging. Eric had to use a commercial cleaner in order to get the stain out."
+    },
+    {
+        "id": 81,
+        "prompt": "Sven tried drinking wine but still didn't like it.",
+        "story": "Sven did not like to drink alcohol under any circumstances. He often excused himself from events that would include alcohol. One evening, his girlfriend offered him a small glass of wine. Sven decided to drink the beverage, hoping he may actually like it. Unfortunately, the wine was not tasty enough to change Sven's mind."
+    },
+    {
+        "id": 82,
+        "prompt": "Lucky punched her mirror in anger after seeing her hair, causing a hole and injuring her hand with broken glass.",
+        "story": "Lucky walked into her room. She tried to find her mirror to take a look at it. She was furious when she looked at her hair. Out of aggression, she punched the mirror and made a hole inside of it Her hand got injured from the broken glass."
+    },
+    {
+        "id": 83,
+        "prompt": "Gloria learns not to be jealous of her sister's popularity with boys when she finds true love with a loyal partner.",
+        "story": "Gloria was always jealous of her sister because more boys liked her. When they got older, her sister bounced from guy to guy. None of the guys cared for her or stayed with her long. Gloria met a guy who truly loved her. She realized she never should have been jealous of her sister."
+    },
+    {
+        "id": 84,
+        "prompt": "Tim becomes an astronomer after being inspired by the beauty of the stars and learning that people get paid to watch them.",
+        "story": "Tim was looking at the stars. He thought they were beautiful. His dad told him that people get paid to watch stars. Tim decided that he wanted that job. Tim studied hard and became an astronomer."
+    },
+    {
+        "id": 85,
+        "prompt": "William drank underage, got caught by police, attended Alcoholics Anonymous, learned about the dangers of drinking, and is now sober for 2 years.",
+        "story": "William sometimes drank underage. He got caught one time by the police. The police made him go to Alcoholics Anonymous. William learned how bad drinking was for him. William is now 2 years sober."
+    },
+    {
+        "id": 86,
+        "prompt": "Ellen, a talented writer, was left speechless on stage despite winning multiple junior poetry competitions.",
+        "story": "Ellen had loved writing since she was a child. She had won multiple junior poetry competitions. Words had always come easily to her. Now she didn't know what to say. She stood on stage speechless, clutching her award."
+    },
+    {
+        "id": 87,
+        "prompt": "Mandy made chocolate molds for her friends, but it melted easily.",
+        "story": "Mandy made some chocolate. She then put it in molds. She ended up giving it to friends. They liked it. But it melted too easily."
+    },
+    {
+        "id": 88,
+        "prompt": "Kat pursued her dream of becoming a writer, worked for school newspapers, and eventually landed a job at a large newspaper where she stayed for many years.",
+        "story": "When she grew up Kat wanted to be a writer. She was on the school newspaper in high school and college. She graduated college and applied for many jobs. Kat finally landed a job at a large newspaper. Kat was happy and stayed at this position for many Year's."
+    },
+    {
+        "id": 89,
+        "prompt": "Mary goes shopping for a new dress and finally finds one after trying on several dresses.",
+        "story": "Mary was going through her closet and couldn't find anything to wear. She needed a new dress for her date that weekend. So Mary decided to go to the local mall and do some shopping. Mary went to a few stores and tried on several dresses. After spending most of the day shopping, she finally found the dress!"
+    },
+    {
+        "id": 90,
+        "prompt": "Frank tries rock climbing, practices in a gym with safety gear, then climbs a nearby mountain and enjoys the view.",
+        "story": "Frank decided to try rock climbing out as a sport. He practiced for a few months inside of a gym with safety gear. After those months he finally decided to try and climb up a mountain. He got his gear and drove to a nearby mountain and began climbing. His hard work paid off when he looked down at the world from the top."
+    },
+    {
+        "id": 91,
+        "prompt": "Neil explored Kuwait, rode camels, observed local markets and shows, and left with a desire for more Arab culture.",
+        "story": "Neil was exploring the desert countries. He loved Arab culture! He flew into Kuwait and rode camels. Then he observed the local markets and shows. He left Kuwait with a hunger for even more Arab culture!"
+    },
+    {
+        "id": 92,
+        "prompt": "Couple's vacation to Universal Studios in Orlando was made memorable by wife's obsession with Harry Potter and her use of a wand.",
+        "story": "We went to Universal Studios in Orlando for vacation. My wife was obsessed with Harry Potter so she wanted to really go. Once we got there we decided to buy her a wand. She spent the rest of the trip using the wand and saying spells. It was one of the most fun vacations we have ever been on."
+    },
+    {
+        "id": 93,
+        "prompt": "Tim's last-minute Halloween party was a failure, as most of his friends already had plans. He ended it early and was upset.",
+        "story": "Tim wanted to have a Halloween party. He waited until the last minute to set it up. Most of his friends already had plans. Tim's party was a big bust. He ended it early and cried himself to sleep."
+    },
+    {
+        "id": 94,
+        "prompt": "Drake picked the best apple while his family picked indiscriminately. They later used his apple in a pie.",
+        "story": "Drake went apple picking with his family. He tried to pick only the single very best apple. His family members indiscriminately plucked ripe apples. Drake made the selection of a plump and perfectly red apple. His family later threw it into a pie with the others."
+    },
+    {
+        "id": 95,
+        "prompt": "Tatiana found a key at school, returned it to the lost and found, and felt proud of her good deed.",
+        "story": "Tatiana was walking through her school hallway when she found a key. She wondered who the owner was and what to do about it. Then, she remembered her school and a lost and found section. It wasn't long before the key was given to its rightful owner. Tatiana felt proud of her good deed."
+    },
+    {
+        "id": 96,
+        "prompt": "Cole lied on his resume to get a job at a law firm, but was eventually fired when his deception was discovered.",
+        "story": "Cole wanted to be a lawyer his entire life. He decided to apply for a job at a law firm. He knew that he did not have a law degree but interviewed anyways. Cole got the job because he lied on his resume. He was eventually found out and fired by the law firm."
+    },
+    {
+        "id": 97,
+        "prompt": "Fiona breaks up with her erratic boyfriend in a public place, but later he tries to enter her apartment building.",
+        "story": "Fiona thought it would be best if she broke up with her boyfriend. He had been acting erratic lately and was frightening Fiona. Fiona tried to break the news to him gently, but in a public place. That night, Fiona heard someone calling to her from the street. Her ex-boyfriend was trying to get into her apartment building!"
+    },
+    {
+        "id": 98,
+        "prompt": "A nervous girl's first day at school, she finds comfort sitting next to her friend in the classroom.",
+        "story": "It was the girl's first day at school. She was very nervous. She went into the classroom. She saw her friend. She sat next to her friend."
+    },
+    {
+        "id": 99,
+        "prompt": "Tom cleaned his neglected windows, allowing more light into his dark apartment.",
+        "story": "Tom's apartment was pretty dark. He noticed not a lot of light would go in. Tom decided to clean his windows. He had neglected them for a long time. The cleaner windows allowed a lot more light in."
+    },
+    {
+        "id": 100,
+        "prompt": "Kari and Matt divorced after an unhappy marriage, but both were happier afterwards.",
+        "story": "Kari and Matt were married. They did not have a happy marriage. They tried to fix the marriage but they could not. They decided to get a divorce. Both Kari and Matt were much happier after the divorce."
+    },
+    {
+        "id": 101,
+        "prompt": "Shawn worked hard cutting grass to save up for a new bike he wanted for his birthday.",
+        "story": "Shawn was a young boy. He wanted a new bike for his birthday. His dad told him he would have to work for it. Shawn got a job cutting grass. Shawn saved enough and bought a new bike."
+    },
+    {
+        "id": 102,
+        "prompt": "Amy's sudden jealousy towards Tim was explained by her menstrual cycle.",
+        "story": "Tim's girlfriend Amy was always a cool and calm chick. Lately, Amy had shown signs of jealousy. Tim couldn't figure out what was wrong. Soon, her jealousy got even worse and Tim was ready to leave. The next day, Amy got her period which explained the strong emotions."
+    },
+    {
+        "id": 103,
+        "prompt": "Lemmy's fellow musicians admired his heavy rock music and asked about his influences, to which he replied Elvis and Little Richard.",
+        "story": "Lemmy played the heaviest, loudest rock music on the planet. His fellow musicians worshiped the very chords he pounded on. They showered Lemmy with compliments and asked his major influences. He was happy to tell them, and without a hint of irony. Lemmy said his biggest influences were Elvis and Little Richard."
+    },
+    {
+        "id": 104,
+        "prompt": "Joey lost a $100 bet to Jeff after a basketball game where Jeff emerged as the winner.",
+        "story": "Joey knew he was better at basketball than Jeff So joey proposed a bet 100 dollars to the winner of the basketball game Joey and Jeff battled it out for the money Jeff beats Joey and Joey Loses the bet"
+    },
+    {
+        "id": 105,
+        "prompt": "James won $100 on a scratch ticket and went to the casino, but ended up losing his entire paycheck and feeling miserable.",
+        "story": "James liked to buy scratch tickets on payday for fun. One day he won a hundred dollars. He decided to go to the casino to play for higher stakes. In the excitement, he started beating his full paycheck. He ended up broke and miserable."
+    },
+    {
+        "id": 106,
+        "prompt": "Hannah asked her mom to attend a party with alcohol, but her mom refused to let her go despite her promises.",
+        "story": "Hannah was invited to a party last night. She asked her mom if she can go. Her mom immediately said no since the party has alcohol. Hannah swore that she wouldn't do anything. Her mom still refused to let her go."
+    },
+    {
+        "id": 107,
+        "prompt": "Sally searched for coins in her house to make money quickly, but her mother suggested she should have worked instead.",
+        "story": "Sally wanted to make some money, and wanted to fast. One day, she planned on finding every coin in her house. She spent hours looking under tables and digging in the couch. Her parents watched her quietly, as she scavenged for coins. Her mother told her she could've spent her time working instead!"
+    },
+    {
+        "id": 108,
+        "prompt": "Orin, unable to afford college in America, was offered a free education by a college in Finland.",
+        "story": "Orin could not afford to attend college in America, but he was smart! He had finished high school at the very top of his class. Then a college in Finland reached out to him. There, college was free, and they wanted to sponsor Orin's education! As Orin read their letter, he almost wept with gratitude!"
+    },
+    {
+        "id": 109,
+        "prompt": "Jeremy breaks down in tears while speaking at his father's funeral, and is consoled by friends and family.",
+        "story": "Jeremy was at his father's funeral. He had been able to hold it together for most of it. When it came time to speak he broke down. He was unable to stop crying. His friend and family tried to console him.["
+    },
+    {
+        "id": 110,
+        "prompt": "Xiao gave birth to a healthy boy after 14 hours of labor, with only Stephen and her mother present in the room.",
+        "story": "Stephen's wife, Xiao, went into labor today around noon. All of her family and his went to the hospital to wait for the baby. Xiao didn't want anyone in the room except Stephen and her mother. After 14 long hours the baby was finally born. Twenty six family members were thrilled to hear it was a healthy boy!"
+    },
+    {
+        "id": 111,
+        "prompt": "Lily gets her tongue stuck on an icy pole while playing outside and her mother comes to her rescue.",
+        "story": "Lily loved the snow and ice. She was playing outside and was curious. She seen ice on a pole and wondered if it tasted good. Lily licked the pole and her tongue got stuck. Her mother heard her crying and ran to release her tongue."
+    },
+    {
+        "id": 112,
+        "prompt": "Ben seeks real romance after being tired of reading fan fiction. He turns to online dating and eventually finds a date.",
+        "story": "Ben was sick of reading fan fiction romance. He realized he wanted to experience the real thing. He went to online dating sites. He even to Craigslist to find a relationship. Finally, he acquired a date and began to experience the real thing."
+    },
+    {
+        "id": 113,
+        "prompt": "Cody was saved from a wasp by her friend while eating a snow cone outside.",
+        "story": "Cody was standing outside one day eating a snow cone. All of the sudden, a wasp landed on her. She didn't know what to do! Luckily Cody had a friend with her who swatted the wasp off. She was so thankful for her friend that day!"
+    },
+    {
+        "id": 114,
+        "prompt": "Tom saw a ghost in his attic and ran to tell his wife.",
+        "story": "Tom heard a strange noise in the attic. He went upstairs to see what it was. He saw a glowing, transparent person. They made a spooky gesture towards him. He ran away to tell his wife he'd seen a ghost."
+    },
+    {
+        "id": 115,
+        "prompt": "Ned meets a new neighbor named Harry and they spend the afternoon jumping on a trampoline and having fun.",
+        "story": "Ned lived in a quiet neighborhood without many kids. He always wished that there were more kids to play with outside. One day, he left his house and saw that a new family moved next door. He walked over and met a boy named Harry who was his same age. They spent the afternoon jumping on Harry's trampoline and had a ball!"
+    },
+    {
+        "id": 116,
+        "prompt": "The author never had a good PC growing up, but spent $1500 building a custom one last year and regrets not doing it sooner.",
+        "story": "Growing up, I have never had a PC that could play games. The computers my family bought were always mass produced generics. Some of my friends had awesome computers that could do anything. Last year, I spent $1500 dollars building my own custom PC. I have no regrets other than not doing it sooner."
+    },
+    {
+        "id": 117,
+        "prompt": "Jessica leaves sorority after being body-shamed during hazing where she was forced to strip naked.",
+        "story": "Jessica joined the new sorority. When it was time for the hazing, she had to strip naked. EVeryone else judged her body and criticized her. She couldn't take it. She left the sorority crying."
+    },
+    {
+        "id": 118,
+        "prompt": "Jana loved spending time at the library and was offered a paid internship by the librarian, which she accepted.",
+        "story": "Libraries were Jana's favorite place to hang out. She would spend all her free time at the local library. She would help keep things organized while she was there. Jana was offered a paid internship by the Librarian. Jana happily accepted the offer."
+    },
+    {
+        "id": 119,
+        "prompt": "A man enters a bank, asks to see the manager, and pulls out a gun.",
+        "story": "A man walked into a bank and stood in line. When it was his turn he spoke to the teller. The man asked to see the manager of the bank. The teller told him he would have to wait. The man pulled out a gun and laid it on the counter."
+    },
+    {
+        "id": 120,
+        "prompt": "Sam's fear of an old tree on his yard ended when it was hit by lightning and fell over during a storm.",
+        "story": "There was an old tree on Sam's yard. Sam was always afraid of it. One night it was storming hard. The tree was hit by lightning and fell over. Sam was relieved it was gone."
+    },
+    {
+        "id": 121,
+        "prompt": "A child had to move frequently and found it difficult to make friends, but had a favorite stuffed toy until it was left behind during a move.",
+        "story": "We moved quite a bit when I was a kid. This made it hard to make friends. I didn't mind because I had my favorite stuffed toy. It was a twenty-six inch tall plush monster I'd had since I was four. When I was seven and we moved my parents made me leave it behind."
+    },
+    {
+        "id": 122,
+        "prompt": "Sam overcame his fear of planes to travel to Disneyland, but was scared throughout the flight and relieved when he landed.",
+        "story": "Sam was afraid of planes. Sam had to take a plane to go to Disneyland. Sam was willing to fly to go there. Sam was scared the whole ride. When he finally landed he kissed the safe ground."
+    },
+    {
+        "id": 123,
+        "prompt": "Bruce chooses furniture making as his main hobby in old age and earns extra money from it.",
+        "story": "Bruce had a lot of hobbies. In his old age, he wasn't able to carry on them all. He decided to pick just one to focus on. His choice was furniture making. He now makes extra money on the side for doing his hobby."
+    },
+    {
+        "id": 124,
+        "prompt": "George heard a noise in his empty house and feared a ghost, but it turned out to be a raccoon.",
+        "story": "George was alone on his porch one night. He heard a shuffle in his empty house. He was immediately feeling paranoid as he investigated the dark. He expected something ghostly and terrifying any moment. To his relief, it was just a wild raccoon that had got in."
+    },
+    {
+        "id": 125,
+        "prompt": "After a difficult first year, a company started by friends is gaining traction with growing social media followings. Excitement for the future.",
+        "story": "I started a company with a few friends. There was a hard first year of slogging with no reward. It has started to gain traction. Our social media accounts are gaining considerable followings. I am very excited for the year to come."
+    },
+    {
+        "id": 126,
+        "prompt": "Kate and her brothers went berry picking, but a neighbor's cat got into their house when her brother forgot to close the door. Kate tried to catch it but was unsuccessful.",
+        "story": "Kate and her brothers were going to pick berries. Her brother forgot to close the door. The neighbors cat went into the house. Kate tried to catch it before it got in the house. But the cat was too fast for her."
+    },
+    {
+        "id": 127,
+        "prompt": "Nan refurbished a table from Craigslist and set it up in her dining room for her family to enjoy.",
+        "story": "Nan bought a table off Craigslist. She carefully sanded and stained it. She put it in her dining room when it was dry. She carefully set the table. The family couldn't wait to eat at their new table."
+    },
+    {
+        "id": 128,
+        "prompt": "A father who rarely saw his daughter visited her in the country, and after rescuing her, they developed a close relationship.",
+        "story": "Kevin was a father who didn't get a chance to see his daughter often. One day he had time off and went to visit her in the country. She wasn't very happy to see him because he was gone a lot. However one day she got in trouble and Kevin rescued her. After that Kevin and his daughter had a very close relationship."
+    },
+    {
+        "id": 129,
+        "prompt": "Rena finds her desired dog breed at the pet store and adds a new dog to her family, making her very happy.",
+        "story": "Rena wants to add a dog to her family. She goes to the pet store to see if they have the dog breed she wants. She see's there's a whole litter of her desired dog breed. She picks a dog to add to her family. Rena is very happy with her new dog."
+    },
+    {
+        "id": 130,
+        "prompt": "A picky cat named Trixie started to have health problems due to her refusal to eat. However, after accidentally trying tuna, she now loves mealtime.",
+        "story": "Trixie was an adorable cat who never ate anything. Her pickiness started to affect her health. One day, however, her owner, Teresa, had a tuna sandwich. Teresa accidently dropped the can, and Trixie started licking it. Teresa sprinkled tuna on Trixie's chow, and now she loves meal time!"
+    },
+    {
+        "id": 131,
+        "prompt": "Kids catch frogs from pond, put them in pool, dad makes them return them.",
+        "story": "Growing up as a kid we lived near a pond. Their was a ton of frogs that lived in this pond. One day me and my little brothers caught as many frogs as we could. We brought them home and put them in our little plastic swimming pool. When my Dad got home he was amazed but made us take them back."
+    },
+    {
+        "id": 132,
+        "prompt": "Tom satisfied his hunger by driving to the store and buying and eating chips.",
+        "story": "Tom was hungry. Tom loved eating chips. Tom drove to the store. Tom bought chips. Tom came home, and ate the chips to end his hunger."
+    },
+    {
+        "id": 133,
+        "prompt": "Sally was shy around neighbors and hid from them due to her uncle's teasing, but meeting them made her feel better.",
+        "story": "Sally felt very shy when the neighbors came over. Sally tried to hide whenever the neighbors came. Sally's uncle used to make fun of her. Once her uncle dragged her out in front of the neighbors. After meeting the neighbors, Sally didn't feel so bad."
+    },
+    {
+        "id": 134,
+        "prompt": "A person requested a free copy of the Book of Mormon online and received a call from a Mormon who asked why they wanted it. They explained they study religions as a hobby and received the book in the mail.",
+        "story": "I saw a website that advertised a free copy of the Book of Mormon. I had to give out my name, address, and phone number. A Mormon called me and asked why I wanted the book. I told her I study religions as a hobby. She said they would send me a book in the mail."
+    },
+    {
+        "id": 135,
+        "prompt": "A man falls asleep during a sermon and later dies in the hospital.",
+        "story": "The sermon started, and everyone sat to hear it. During the sermon, a man fell asleep. His wife shook him, but he did not wake up. People in the church came to check on him, but he was unresponsive. The paramedics took him to the hospital, where he later died."
+    },
+    {
+        "id": 136,
+        "prompt": "June buys a late gift for a secret Santa exchange due to lack of funds, but the recipient still appreciates it.",
+        "story": "June was supposed to get a gift for a secret Santa exchange. She didn't have a lot of money and planned on waiting for awhile. It started getting so close to Christmas that she had to buy the gift. Unfortunately, it wouldn't be shipped in time for Christmas. Even though the gift arrived late, the giftee still appreciated it."
+    },
+    {
+        "id": 137,
+        "prompt": "Josh saved for years but needed another job to afford a new car. He eventually succeeded in buying one.",
+        "story": "Josh needed a new car. He had been saving for years. However, he still didn't have enough. He decided to get another job. Josh finally had enough money for a new car."
+    },
+    {
+        "id": 138,
+        "prompt": "Mike trained hard to win a race and make his family proud. He succeeded and found a sense of purpose.",
+        "story": "Mike ran and ran every day in order to train to be the best. He wanted to make his family proud by winning the upcoming race. The day finally came and he eagerly awaited to show the world. He blasted through the competition and placed in first place. He made his family proud and finally felt like he had a purpose,"
+    },
+    {
+        "id": 139,
+        "prompt": "A big fire in 1963 at the Morgan Memorial building caused the evacuation of nearby buildings, but they were able to return by the end of the day.",
+        "story": "In 1963 we saw a big fire down the street. The entire Morgan Memorial building was on fire. We could see flames everywhere. The fire department evacuated our building because it was close. We got back in by the end of the day."
+    },
+    {
+        "id": 140,
+        "prompt": "A little girl named Dawn gets stranded on a sandbar surrounded by jellyfish, but is rescued by a stranger.",
+        "story": "Dawn splashed in the gentle waves on the beach. She waded out to a sand bar to see what was over there. The tide was changing and with it the currents changed too. Before she knew it many jellyfish floated between her and the shore! She started crying until a stranger helped the little girl to safety."
+    },
+    {
+        "id": 141,
+        "prompt": "A narrator finds a cure for their headaches but ends up with a new problem of constantly snacking.",
+        "story": "The narrator said he the perfect cure for everything that ails us. My head hurt but I sat closer to the television to listen better. I ordered the samplers trial package to get rid of the headaches. I tried mixing the headache cure package in my brownie mix. Now I no longer have headaches but I cannot keep snacks in the house."
+    },
+    {
+        "id": 142,
+        "prompt": "Ramona got caught in the rain without an umbrella on her way home from school and arrived soaking wet. She changed into dry clothes afterwards.",
+        "story": "Ramona was walking home from school. All of a sudden it started to pour outside. Ramona didn't have an umbrella. By the time she got home she was soaking wet! Afterwards, Ramona quickly changed into dry clothes."
+    },
+    {
+        "id": 143,
+        "prompt": "Driver forgets wallet on car roof but is relieved to find it on the road after making a u-turn.",
+        "story": "The first year I drove my friends and I who had decided to go to the beach. I was nervous taking my friends and I had to stop and get gas. After paying for the gas I put my wallet on the roof. We started on our way and then I realized I left it on the roof. After making a quick u turn I was happy to see it on the road."
+    },
+    {
+        "id": 144,
+        "prompt": "A team wins a big game against an undefeated opponent after weeks of practice.",
+        "story": "The team was really excited. They had a game coming up that was huge. They were playing an undefeated team. They practiced their plays for weeks. On the day of the game, they played great and won!"
+    },
+    {
+        "id": 145,
+        "prompt": "Ryan's favorite holiday is Thanksgiving, and he loves the crispy skin of the turkey his mother cooks. He steals it off his brother's plate.",
+        "story": "Thanksgiving was Ryan's favorite holiday. His mother cooked a turkey and several side dishes. The turkey was golden brown with crispy skin, Ryan's favorite part. His brother grabbed the crispiest piece of skin before Ryan got it. Ryan stole it off his brother's plate and ate it."
+    },
+    {
+        "id": 146,
+        "prompt": "Bill quits unfair company, hires web developer, becomes successful internet entrepreneur.",
+        "story": "Bill was really tired of his ridiculous boss and unfair company. Bill decided to become his own boss. Bill hired a web developer, having a website built. Bill began selling services online. Now Bill is one of the world's most successful internet entrepreneurs."
+    },
+    {
+        "id": 147,
+        "prompt": "Rena satisfies her sweet tooth by baking brownies when her candy jar is empty.",
+        "story": "Rena had a major sweet tooth. She wanted to eat some candy. But her candy jar was empty. So instead she baked some brownies. Her sweet tooth was satisfied after eating half the pan of brownies!"
+    },
+    {
+        "id": 148,
+        "prompt": "Ken made breakfast in bed for his girlfriend after a fight, which made her feel better.",
+        "story": "Ken got into a fight with his girlfriend. He felt bad over it. He decided to make her breakfast in bed. He surprised her when she woke up. Ken's girlfriend felt better by the sentiment."
+    },
+    {
+        "id": 149,
+        "prompt": "Wayne left his house in a rush for a presentation, but realized he had his son's homework instead of his notes.",
+        "story": "Wayne left his house in a hurry that day. He had a presentation to give in front of his peers and was nervous. He went to the conference room right away to prepare himself. But when he took out his papers, he realized they were not his notes. He was looking at his son's homework about the cycles of the moon."
+    },
+    {
+        "id": 150,
+        "prompt": "Tim was unbeatable at Fifa and defeated all his friends, including Carter, who never played again after losing to Tim.",
+        "story": "Tim was amazing at Fifa. Tim beat all of his friends at Fifa. One day Carter tried to beat Tim. The match between them was tough but Tim won. Carter never played Fifa again."
+    },
+    {
+        "id": 151,
+        "prompt": "Jon turned to steroids to get bigger as a bodybuilder, but was barred by the committee after they found out.",
+        "story": "Jon decided to become a bodybuilder. At first, he refused to use steroids. Alas, he couldn't get big enough. He decided to use steroids. The bodybuilding committee found out and barred him."
+    },
+    {
+        "id": 152,
+        "prompt": "Jill gets a surprise on her birthday when her parents buy her the canopy bed she had been begging for.",
+        "story": "Jill saw a beautiful canopy bed in a catalog. She begged her parents to buy it for her. They said she didn't need a new bed. When she came home from school on her birthday, there it was! It even had the same pink sheets she saw in the catalog."
+    },
+    {
+        "id": 153,
+        "prompt": "Bobby and Sue visited the zoo, saw various animals, had lunch, bought souvenirs, and took pictures.",
+        "story": "Bobby and Sue went to the zoo yesterday. They saw the bears, lions and tigers. They also saw penguins which they love. They had lunch and bought souvenirs. They took lots of pictures to remember their special day."
+    },
+    {
+        "id": 154,
+        "prompt": "A new restaurant received positive reviews and high demand, prompting them to open a second location.",
+        "story": "The restaurant had been open a week. It was getting great reviews! The bar was always full of people waiting for tables. The restaurant decided to open a second location. They were thrilled with their success!"
+    },
+    {
+        "id": 155,
+        "prompt": "Stan's love for taking things apart led his mother to buy him a cart of thrift store electronics.",
+        "story": "Stan was going to be a scientist when he grew up. He liked to take apart everything he could get his hands on. His mother would hide the screwdrivers, so he'd use a butter knife. She grew tired of having nothing that was put together anymore. She finally solved this by buying a cart of thrift store electronics."
+    },
+    {
+        "id": 156,
+        "prompt": "Two friends had a nail clipping fight after a toenail flew off and hit one of them, resulting in a mess that their mother demanded they clean up.",
+        "story": "Claudia was clipping toe nails. One flew off and hit her friend. The friend got mad and clipped her fingernails. They had a nail clipping fight. The mother came in and demanded they clean up their mess."
+    },
+    {
+        "id": 157,
+        "prompt": "Joey's car engine made a noise and blew up, causing white smoke to blow in his face.",
+        "story": "Joey was driving down the road. His engine began to make a noise. He pulled over to see what was wrong. White smoke blew all in his face. His car had blown its engine."
+    },
+    {
+        "id": 158,
+        "prompt": "Tom won a basketball game against his friend who was given a ten point lead, causing his friend to become angry.",
+        "story": "Tom decided to challenge his friend to game of basketball. Tom and his friend gambled on the game. Tom gave his friend a ten point lead. Tom won the game. Tom's friend was mad."
+    },
+    {
+        "id": 159,
+        "prompt": "Eric was nervous for his first day of preschool, but his dad reassured him that it was everyone else's first day too.",
+        "story": "Eric was nervous for his first day of preschool. He didn't know what to expect. His dad told him not to worry. He also told him that it was everyone else's first day too. Eric felt better about going to school."
+    },
+    {
+        "id": 160,
+        "prompt": "Megan hires a plumber to fix her old house's plumbing for $5000 and is pleased with the quick completion.",
+        "story": "Megan bought an old house. The plumbing needed a lot of work. She hired a plumber to help her. He charged $5000 but finished quickly. Megan was happy to have her house repaired."
+    },
+    {
+        "id": 161,
+        "prompt": "A man named Stan received a composite resin filling and was told by his dentist that he should no longer bite into food, but instead break it with his hands and then chew it.",
+        "story": "Stan had just gotten a composite resin filling. His dentist had told him his days of biting into food were over. Stan listened as she explained how he was supposed to eat now. He needed to break the food with his hands and then chew it. Stan thought that was a bummer, but not as much as missing teeth!"
+    },
+    {
+        "id": 162,
+        "prompt": "A man named Fred constantly worried about having a disease and had weekly tests done. He tested positive for a disease and had surgery, but it was a false positive and his health worsened.",
+        "story": "Fred constantly worried that he had a disease. So he had various tests done on himself every week. One day, he tested positive for a certain disease. So he decided to have surgery. But because it was a false positive, Fred's health only became worse."
+    },
+    {
+        "id": 163,
+        "prompt": "A family went on a cross country trip visiting every state, but their RV broke down frequently causing delays.",
+        "story": "When I was a kid, my family went on a cross country trip. We visited every single state. On the trip our RV broke down a lot. One time it was broken down for a whole day. Eventually, we got it fixed and finished off the trip."
+    },
+    {
+        "id": 164,
+        "prompt": "Tom failed his English test after pulling an all-nighter without studying, feeling tired and nervous during the exam.",
+        "story": "Tom has an English test. He has not studied. He decided to pull an allnighter. When he got to school he was tired and nervous. He fell asleep during the test and failed."
+    },
+    {
+        "id": 165,
+        "prompt": "Autistic teenager Kira, who will graduate from high school next year, brought her telescope and star chart to her senior portrait session, resulting in successful and happy photos.",
+        "story": "Kira, an autistic teenager, will graduate from high school next year. Her parents worried about her senior portraits since Kira is very shy. They realized bringing some things of particular interest would help. Kira brought her telescope and a star chart to include in the photos. The session was a success, as Kira looks very happy in the pictures."
+    },
+    {
+        "id": 166,
+        "prompt": "A family adopted a cat who wouldn't eat until they started pouring gravy on his food.",
+        "story": "The Larsen family adopted a cat. Once they brought the cat home he would not eat. They tried all different types of cat food. The family started pouring gravy on the cat's food. The cat would now eat his cat food.The cat would now eat his cat food."
+    },
+    {
+        "id": 167,
+        "prompt": "The author visited a friend in Maine who used to own two dogs, but sadly both dogs got sick and had to be put down recently.",
+        "story": "I visited my friend Frank in Maine today. He used to own two dogs. I asked him how the dogs were doing. Frank said both dogs got sick and had to be put down recently. I was saddened by this news."
+    },
+    {
+        "id": 168,
+        "prompt": "Parents search for missing potty lid, eventually finding it inside the toilet.",
+        "story": "My husband and I could not find the lid to my son's training potty. We looked in his toybox, closet, and bedroom. Desperate, we looked in the dirty clothes pile, bathtub, and washer. My son followed behind us as if he was taunting us in our search. Finally, we found it inside the big toilet!"
+    },
+    {
+        "id": 169,
+        "prompt": "Jennifer volunteered at an animal shelter and was tasked with bathing and feeding a pony named Alf, who turned out to be scared of water and kicked her when she turned on the hose.",
+        "story": "Jennifer volunteered at an animal shelter last year. One day, a man brought in a pony named Alf. Jennifer was instructed to bathe and feed him. No one told Jennifer that Alf was scared of water. Alf kicked her when she turned on the hose."
+    },
+    {
+        "id": 170,
+        "prompt": "Gina's siblings threw things out of a window, despite her attempts to stop them. They were caught by their mother and grounded for a week, except for Gina.",
+        "story": "Gina's siblings were throwing things out a 2nd floor window. Gina was already in trouble so she tried to stop them. But they kept throwing things. Until they realized their mother was in the doorway watching them. Everyone except Gina was grounded for a week."
+    },
+    {
+        "id": 171,
+        "prompt": "A man named Teddy found several valuable items but, being on parole, turned them in to his parole officer. Unfortunately, the officer kept them for himself.",
+        "story": "Teddy felt lucky that day. He found two wallets, a watch and a tablet. As he was on parole he didn't want to keep them. He went to his parole officer to give him the objects. The parole officer, who wasn't honest, kept them for himself."
+    },
+    {
+        "id": 172,
+        "prompt": "Sam's car broke down, so he took the bus to work. While waiting for the bus, a passing car hit a puddle and soaked him.",
+        "story": "Sam's car broke down earlier in the week. He had to take the bus to work. It had rained the night before. Sam was waiting too close to a puddle. A car drove by, hit the puddle and soaked Sam."
+    },
+    {
+        "id": 173,
+        "prompt": "A boy gets excited and runs to his mother, saying he's ready to go. They drive to the playground.",
+        "story": "He jumped up excitedly. He ran to his mother. He said he was ready to go. They jumped in the van. They drove to the playground."
+    },
+    {
+        "id": 174,
+        "prompt": "Julian won a toy in a crane game after trying a new tactic, impressing his friends who had bet against him.",
+        "story": "Julian was playing a crane game while his friend's watched. They had bet he couldn't win a toy. Julian was on his second out of three tries and hadn't won a toy. He decided to try a new tactic. Luckily, it worked and he won."
+    },
+    {
+        "id": 175,
+        "prompt": "Karen and her daughter were flying a kite when a strong gust of wind caused the kite to jerk and the daughter to fall. Although the daughter was not hurt, Karen decided to end their kite-flying session and go home.",
+        "story": "Karen was flying a kite with her daughter. The winds started to pick up. One large gust jerked the kite hard. Karen's daughter fell to the floor. She wasn't hurt but Karen decided to go home."
+    },
+    {
+        "id": 176,
+        "prompt": "Jay tried to make his sister fall by putting a banana peel in her path, but it just got squished and she got angry.",
+        "story": "Jay saw cartoons where people slid on banana peels. He wondered if it would really work. He put a banana peel in the path his sister would be walking. She did step on it, but it just got squished. She was pretty angry at him for trying to make her fall."
+    },
+    {
+        "id": 177,
+        "prompt": "Kelli's favorite candy is Twizzlers. She went to the movies with a friend and was relieved to get the last bag.",
+        "story": "Kelli loved to eat twizzlers. They were her favorite kind of candy. Last night she went to the movies with a friend. She ordered twizzlers but they were the last bag. Kelli was relieved to get the last bag."
+    },
+    {
+        "id": 178,
+        "prompt": "Matt's favorite shirt got stained with wine, so he bought a new shirt and was happy with it.",
+        "story": "Matt had a favorite shirt. One day a wine glass spilled near Matt. Wine got all over his favorite shirt. He went to the store and bought a new shirt. He was happy with his new shirt."
+    },
+    {
+        "id": 179,
+        "prompt": "Brad's hard work and dedication paid off when his boss noticed and rewarded him with a raise.",
+        "story": "Brad got up early and dressed in his usual suit and tie. He jumped into his Mercedes and gunned it to miss the morning traffic. He was the first one at work and eagerly got busy. Brad's boss noticed how hard he has been working lately. At the end of the day Brad's boss gave him a raise for his work."
+    },
+    {
+        "id": 180,
+        "prompt": "Whitney and friends had fun at the beach until she stepped on a jellyfish and had to go to the ER.",
+        "story": "Whitney and her friends went to the beach yesterday. They walked along the edge. They jumped the waves. It was all fun until Whitney stepped on a jellyfish. They then rushed to the ER."
+    },
+    {
+        "id": 181,
+        "prompt": "Campers go for a hike and discover a small lake where they enjoy hearing their voices echo back to them.",
+        "story": "Every day at camp, the campers would go for a hike in the woods. One day, they came to a small lake. They stood at the edge of the lake and yelled \"Hello!\" As they waited, they heard an echo come back to them, saying \"Hello!\" The campers enjoyed hearing the echo at the lake."
+    },
+    {
+        "id": 182,
+        "prompt": "A tired driver falls asleep at the wheel but wakes up when another car honks at them.",
+        "story": "I had been working very late for the past week. I was driving home after another exhausting day at work. My eyelids were heavy as I tried to focus on the road. My eyes closed and I fell asleep at the wheel. I suddenly woke up when I heard a car honk at me."
+    },
+    {
+        "id": 183,
+        "prompt": "Ana cheated on her math test by copying her partner's paper and managed to score a B without getting caught.",
+        "story": "Ana had a math test. But she had not studied. She decided to copy her partner's paper. Luckily, she was not caught. She scored a B on the test by cheating."
+    },
+    {
+        "id": 184,
+        "prompt": "Tiffany, a defensive soccer player, scored her first ever goal after requesting to play midfield in her final season.",
+        "story": "Tiffany was a defensive soccer player who had never scored a goal. She became desperate to score in her final season of soccer. Tiffany requested to play midfield during a serious game that season. Her coach obliged and put her in at center midfield. Tiffany scored her first ever goal and won the game for her team."
+    },
+    {
+        "id": 185,
+        "prompt": "Tom's first day of high school was nerve-wracking as he didn't know anyone, but he made new friends during group introductions in his first class.",
+        "story": "Today was Tom's first day of high school. He was nervous because he didn't know anyone at this new school. His first class started with group introductions. He met many new friends in this first class. Tom was a little less nervous about the rest of the school day."
+    },
+    {
+        "id": 186,
+        "prompt": "Jenny passed her driver's test without making any mistakes, despite being nervous about the written test.",
+        "story": "Last week Jenny took her driver's test. She was very nervous about the written test. But she had studied very hard for it. She passed the test without making any mistakes. Jenny was relieved and excited at the same time."
+    },
+    {
+        "id": 187,
+        "prompt": "A chef-in-training named Bill learned how to properly cut with a knife in class, but injured himself while cutting a carrot. His teacher called for the nurse and Bill learned the importance of knife safety.",
+        "story": "Bill is training to be a chef. Today in class, Bill learned how to properly cut with a knife. However, in the act of cutting a carrot, Bill injured himself. Bill's teacher immediately called for the nurse to access him. Bill learned the importance of utilizing a knife properly."
+    },
+    {
+        "id": 188,
+        "prompt": "Sam had to find a new route home when he noticed his usual road was closed, but got lost and spent hours walking. He eventually made it home and relaxed.",
+        "story": "Sam left work one day to go home. While walking his usual route, he noticed the road was closed. Sam turned around and found another way to go home. Because he was unfamiliar, he spent hours walking back home. When Sam made it home, he relaxed on his couch."
+    },
+    {
+        "id": 189,
+        "prompt": "Anna wakes up on her birthday excited to see what gift her parents have for her. They surprise her with a bike hidden in the garage, and Anna jumps for joy.",
+        "story": "Anna woke up excited because today is her birthday. She is wondering what gift she will get from her parents. Her parents want to surprise her so they hide the bike in the garage. Anna's mom tells Anna to go to the garage and they follow her. Anna discovers the bike in the garage and jumps for joy."
+    },
+    {
+        "id": 190,
+        "prompt": "A beach house rented by Skip's family in Florida caught fire on the third morning of their vacation, causing the entire house to collapse.",
+        "story": "Skip's family rented a beach house in Florida for a week. On the third morning the house caught on fire. The local fire department worked hard to put out the fire quickly. Unfortunately, the entire beach house collapsed from the damage. Skip's family was sad the vacation had to end so soon."
+    },
+    {
+        "id": 191,
+        "prompt": "Miles' short temper and violent behavior caused his wife to leave him and take their kids. After some self-reflection and therapy, he was able to mend things with his wife.",
+        "story": "Miles had a short temper. He got angry as soon as his kids were making too much noise. As he was rough and violent too, his wife left him and took the kids. Suddenly alone, Miles started thinking. He went to therapy and mended things with his wife eventually."
+    },
+    {
+        "id": 192,
+        "prompt": "Allie laughed so hard while watching a funny show that she spilled milk on her dress and had to clean it up.",
+        "story": "Allie and her friends were watching a very funny show. All the sudden Allie laughed so hard. She laughed so hard, she spilled milk. It went all over her dress, She then had to clean it up."
+    },
+    {
+        "id": 193,
+        "prompt": "Two friends drank beer in a park, one threw his empty bottle into the distance, causing disgust from the other.",
+        "story": "Two friends drank beer at an overlook in a park. One friend finished a beer and looked at the bottle. He stood at the edge and threw it into the distance. A faint shattering sound was heard. The other friend shook his face in disgust."
+    },
+    {
+        "id": 194,
+        "prompt": "Tom missed an important scene in the movie he was watching because he had to take a break to use the restroom after drinking a big soda.",
+        "story": "Tom was watching a movie. He was drinking a big soda at the same time. It made Tom really need to pee. He took a break to use the restroom. Tom wound up missing an important scene."
+    },
+    {
+        "id": 195,
+        "prompt": "Buster planned a romantic date with Marsha, but it rained so they went bowling instead of walking on the pier and dining on the beach.",
+        "story": "Buster invited Marsha on a date and she agreed. Buster planned out a romantic evening. They would go for a walk on the pier. They would dine at a picnic table on the beach. It rained so they went bowling instead."
+    },
+    {
+        "id": 196,
+        "prompt": "Sheila's new washing machine broke and the repairman was unable to fix it, leading to her demanding a refund.",
+        "story": "Sheila bought a new washing machine for her home. One day, her machine broke for no apparent reason. Sheila called a repairman to fix the machine. The repairman came the next day but was not able to fix the machine. Sheila was very upset and demanded a refund."
+    },
+    {
+        "id": 197,
+        "prompt": "Gene couldn't send an email to his friend due to internet issues, so he wrote a letter, which took him a while due to poor handwriting, and mailed it.",
+        "story": "Gene needed to get a message to his friend. He tried email, but his internet wasn't working properly. It wasn't urgent, so he decided to write a letter. It took him a while, as his handwriting was poor. After much effort, he mailed the letter to his friend."
+    },
+    {
+        "id": 198,
+        "prompt": "Sam, a talented baseball player, hit three home runs in an important game leading his team to victory. The team celebrated their win into the night.",
+        "story": "Sam is a very great baseball player. He had an important game today. He got three home runs. His team won because of this. The whole team celebrated into the night."
+    },
+    {
+        "id": 199,
+        "prompt": "The student changed their answer at the last minute and lost points on the final question of the test.",
+        "story": "The teacher announced that there are 2 minutes left to the test. I had one question left on my test to answer. After selecting an answer, I quickly changed it and submitted it. The class received their exams during the next day. I lost a couple of points for the last question since it's wrong."
+    },
+    {
+        "id": 200,
+        "prompt": "A group of dogs barked at a cat in a yard, but when one dog approached, the cat clawed its nose.",
+        "story": "Three dogs were trotting down the street. They spied a cat in someone's yard and began barking at it. One brave dog approached the cat, hoping it would run. Instead, the cat hissed, puffed itself up, and clawed the dog's nose. The dog began howling and ran back to its companions."
+    }
+]
