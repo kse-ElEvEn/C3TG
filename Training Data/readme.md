@@ -4,34 +4,11 @@ This folder provides **sample** JSON files for training BERT-based classifiers o
 
 ## Supported Attributes
 
-* **Emotion** (6 classes):
-
-  * Anger
-  * Fear
-  * Joy
-  * Love
-  * Sadness
-  * Surprise
-
-* **Style** (5 classes):
-
-  * Politeness
-  * Romantic
-  * Humor
-  * Sarcasm
-  * Metaphor
-
-* **Tone** (2 classes):
-
-  * Casual
-  * Professional
-
-* **Topic** (4 classes):
-
-  * Knowledge
-  * Justice
-  * Humanity
-  * Courage
+* **Emotion** (6 classes: sadness(0), joy(1), love(2), anger(3), fear(4), surprise(5))
+* **Style** (5 classes: humor(0), metaphor(1), polite(2), romance(3), sarcasm(4))
+* **Tone** (2 classes: casual(0), professional(1))
+* **Topic** (4 classes: Knowledge(0), Justice(1), Humanity(2), Courage(3))
+* **Toxicity** (2 classes: toxic(0), non-toxic(1))
 
 ## Sample Files
 
@@ -64,4 +41,3 @@ The complete collection of JSON files (with full annotations and larger sample s
 [Google Drive — Full Training Data](https://drive.google.com/drive/folders/1-yeNoXjj4BO2ADxW7ABTGHGuq_lfHG92?dmr=1&ec=wgc-drive-hero-goto)
 
 After downloading and extracting, place all `.json` files into this directory to replace the sample versions.
-
